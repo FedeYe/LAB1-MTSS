@@ -1,6 +1,6 @@
 ---
 name: Detailed Bug report
-about: File Bug Report
+about: Bug Report da File
 title: ''
 labels: ''
 assignees: ''
